@@ -12,4 +12,8 @@ This is example is to show different parts of the Git repository and various com
 
 ## Deployment
 
+This is a simple web project, deployment can be on any server or even local file system.
+
 ## How To Contribute
+
+This is to contribute.
